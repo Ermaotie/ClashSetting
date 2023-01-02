@@ -1,0 +1,24 @@
+# 自定义代理列表
+
+# 泥视频
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,plausible.io
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,hpplay.cn
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,a2z.com
+DOMAIN-SUFFIX,openai.com
+
+# 其他
+DOMAIN-SUFFIX,chinadigitaltimes.net
+DOMAIN-SUFFIX,breached.to
+DOMAIN-KEYWORD,yahoo
+DOMAIN-SUFFIX,m247.com
+DOMAIN-SUFFIX,ahhhhfs.com
+DOMAIN-SUFFIX,rfa.org
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,omegle.com
+DOMAIN-SUFFIX,1b.mk
+DOMAIN-SUFFIX,hostloc.com
