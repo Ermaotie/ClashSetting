@@ -1,0 +1,9 @@
+# 自定义直连列表
+
+# 学术
+# wos
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,clarivate.com
+# sci-hub
+DOMAIN-KEYWORD,sci-hub
