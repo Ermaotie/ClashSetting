@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,clarivate.com
 # sci-hub
 DOMAIN-KEYWORD,sci-hub
+
+#PT 
+DOMAIN-SUFFIX,pthome.com
